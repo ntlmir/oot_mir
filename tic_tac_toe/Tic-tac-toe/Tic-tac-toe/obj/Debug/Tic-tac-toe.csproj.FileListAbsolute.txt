@@ -1,0 +1,7 @@
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe.config
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\bin\Debug\Tic-tac-toe.pdb
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.csprojAssemblyReference.cache
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.exe
+C:\Users\Наташа\Desktop\OOT\Tic-tac-toe\Tic-tac-toe\obj\Debug\Tic-tac-toe.pdb
