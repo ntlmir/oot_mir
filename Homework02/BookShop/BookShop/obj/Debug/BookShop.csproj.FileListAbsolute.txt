@@ -1,0 +1,7 @@
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\Users\Наташа\Desktop\OOT\Homework02\BookShop\BookShop\obj\Debug\BookShop.pdb
