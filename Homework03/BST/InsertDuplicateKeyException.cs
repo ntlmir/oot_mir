@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BST
 {
-    class InsertDuplicateKeyException : Exception
+    public class InsertDuplicateKeyException : Exception
     {
         public InsertDuplicateKeyException() { }
         public InsertDuplicateKeyException(string key)
