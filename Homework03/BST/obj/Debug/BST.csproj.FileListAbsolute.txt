@@ -1,0 +1,2 @@
+C:\Users\Наташа\Desktop\OOT\HW03\BST\obj\Debug\BST.csprojAssemblyReference.cache
+C:\Users\Наташа\Desktop\OOT\HW03\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
